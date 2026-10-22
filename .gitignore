@@ -1,0 +1,22 @@
+# Pastas geradas pelo .NET
+bin/
+obj/
+TestResults/
+
+# Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Arquivos temporários e de publicação
+publish/
+*.pdb
+*.cache
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
